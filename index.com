@@ -17,6 +17,7 @@
    
      <element class="cabeçalho"> </element>
      <h1> Diversidade Australiana</h1>
+  <p> mariana moreira machado 9A</p>
 
      <p> DIABO-ESPINHOSO </p>
      <img scr="file:///tmp/guest-mzlzp6/Downloads/download.webp">
