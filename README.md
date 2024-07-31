@@ -15,7 +15,7 @@
 <body>
    
      <element class="cabeçalho"> </element>
-     <h1> Diversidade Australiana</h1>
+     <h1> Animal Australiano</h1>
      <p> mariana moreira machado 9A</p>
 
      <p> DIABO-ESPINHOSO </p>
